@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://yariv.dev
+url: https://google.com/?q=yariv+nissim
 
 permalink: /:title/
 
@@ -44,7 +44,7 @@ linkedin: yariv.nis
 github: yar1vn
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: yariv.nissim
+stackoverflow: 1220642/yariv-nissim
 # quora: userquora
 # reddit: username
 medium: yar1vn
